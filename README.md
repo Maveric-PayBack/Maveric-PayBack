@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.251feca92145aee0e5a4661dddf1ff51?pid=1.7&rurl=https%3a%2f%2fhackernoon.com%2fimages%2fdFW9aLMnLpgfjylixlaQdWQLp2C3-ioh3651.gif&ehk=X2v3TAAaqf0QWKJuVJUzW%2bwiM2Nje47RjFNm973s0XA%3d"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maveric-payback&label=Profile%20views&color=0e75b6&style=flat" alt="maveric-payback" /> </p>
 
-- 🔭 I’m currently working on **Mercury Project**
+- 🔭 I’m currently working in **Mavenir System**
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
