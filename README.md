@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes**
 
-- 📫 How to reach me **dushyantsigh505@gmail.com**
+- 📫 How to reach me **dushyantsingh505@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
